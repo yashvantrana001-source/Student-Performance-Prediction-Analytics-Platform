@@ -1,0 +1,3 @@
+model,test_accuracy
+Logistic Regression,0.846
+Decision Tree Classifier,0.812
